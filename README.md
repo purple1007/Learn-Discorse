@@ -1,10 +1,9 @@
 # Discourse Notes
 
-[![hackmd-github-sync-badge](https://hackmd.io/keRt4sekR_i9lLjX6FBVqw/badge)](https://hackmd.io/keRt4sekR_i9lLjX6FBVqw)
 
 ###### tags: `discourse`
 
-### Summery
+### Summary
 這陣子因為工作原因剛好接觸到 Discourse 這個論壇軟體。近期將會修改或建立一個外掛，藉此也將找到的資源同步整理在以下：
 
 <br>
